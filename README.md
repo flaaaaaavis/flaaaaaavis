@@ -1,8 +1,8 @@
 ## Olá, eu sou a Flávia Souza!
 
-- 🔭 Atualmente sou estudante de Engenharia Elétrica.
-- 🌱 Estou dando meus primeiros paços na programação através do estudo de HTML, CSS e JS.
-- 🤔 Procuro por ajuda para aprender mais sobre o uso do GitHub.
+- 🔭 Aspirante a Full Stack Web Developer pelo Instituto Alpha Lúmen.
+- 🌱 Estou dando meus primeiros paços na programação web.
+- 🤔 Estudante de Engenharia Elétrica.
 - 😄 Meus pronomes são: ela/dela.
 
 <br><div style="align-items:center;">
