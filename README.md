@@ -1,7 +1,7 @@
 ## Olá, eu sou a Flávia Souza!
 
-- 🔭 Aspirante a Full Stack Web Developer pelo Instituto Alpha Lúmen.
-- 🌱 Estou dando meus primeiros paços na programação web.
+- 🔭 Desenvolvedora no [Gypz Lab | DM Card](https://github.com/gypz).
+- 🌱 Ex aluna do Alpha Ed-tech | Instituto Alpha Lúmen.
 - 🤔 Estudante de Engenharia Elétrica.
 - 😄 Meus pronomes são: ela/dela.
 
