@@ -26,4 +26,5 @@
   <img align="center" alt="Docker" height="50" src="https://icons-for-free.com/iconfiles/png/256/docker-1331550887490494437.png">
  &nbsp;
   <img align="center" alt="GO" height="50" src="https://static.imasters.com.br/wp-content/uploads/2018/10/24174307/0_OWUKWmE-4jdrLpx7.png">
+  <img align="center" alt="Nextion" height="30" src="https://cdn.nextion.tech/wp-content/uploads/2019/07/footer_logo.png">
 </div>
