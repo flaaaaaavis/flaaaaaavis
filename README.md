@@ -1,6 +1,6 @@
 ## Olá, eu sou a Flávia Souza!
 
-- 🔭 Desenvolvedora no [Gypz Lab | DM Card](https://github.com/gypz).
+- 🔭 Desenvolvedora Web
 - 🌱 Ex aluna do Alpha Ed-tech | Instituto Alpha Lúmen.
 - 🤔 Estudante de Engenharia Elétrica.
 - 😄 Meus pronomes são: ela/dela.
