@@ -2,29 +2,34 @@
 
 - 🔭 Desenvolvedora Web
 - 🌱 Ex aluna do Alpha Ed-tech | Instituto Alpha Lúmen.
-- 🤔 Estudante de Engenharia Elétrica.
+- 🤔 Estudante de Engenharia Elétrica e Análise e Desenvolvimento de Sistemas.
 - 😄 Meus pronomes são: ela/dela.
 
 <br>
 <div align="center" style="align-items:center;">
-    <a href="https://github.com/flaaaaaavis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaaaaaavis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br>
-    <a href="https://www.linkedin.com/in/ridailda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--     <a href="https://github.com/flaaaaaavis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaaaaaavis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br> -->
+    <a href="https://www.linkedin.com/in/flaaaaaavis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
   
 <div align="center">
-    <img alt="Js" height="50" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png">
+    <img alt="GO" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png">
+ &nbsp;
+    <img alt="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/256/919/919832.png">
+ &nbsp;
+    <img alt="JavaScript" height="50" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png">
  &nbsp;
     <img alt="HTML e CSS" height="50" src="https://images.typeform.com/images/C83jPM99Hh/image/default">
- &nbsp;
+&nbsp;
+    <img alt="Python" height="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+&nbsp;
     <img alt="C" height="50" src="https://logospng.org/download/c-plus-plus/c-plus-plus-256.png">
- &nbsp;
-    <img alt="Java" height="50" src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67">
  &nbsp;
     <img alt="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
  &nbsp;
-    <img alt="Docker" height="50" src="https://icons-for-free.com/iconfiles/png/256/docker-1331550887490494437.png">
+    <img alt="MariaDB" height="40" src="https://qph.cf2.quoracdn.net/main-qimg-27d040f226cb459ee3e822a63429debc">
  &nbsp;
-    <img alt="GO" height="50" src="https://static.imasters.com.br/wp-content/uploads/2018/10/24174307/0_OWUKWmE-4jdrLpx7.png">
-    <img alt="Nextion" height="30" src="https://cdn.nextion.tech/wp-content/uploads/2019/07/footer_logo.png">
+    <img alt="Docker" height="40" src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png">
+ &nbsp;
+    <img alt="Nextion" height="40" src="https://cdn.nextion.tech/wp-content/uploads/2019/07/footer_logo.png">
 </div>
