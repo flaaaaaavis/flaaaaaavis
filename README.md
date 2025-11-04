@@ -1,4 +1,4 @@
-## Olá, eu sou a Flávia Souza!
+## Hey, I am Flávia Thalía!
 
 - 🔭 Full Stack Software Developer
 - 🤔 Studing System Analysis and Development
