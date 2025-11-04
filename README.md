@@ -1,9 +1,8 @@
 ## Olá, eu sou a Flávia Souza!
 
-- 🔭 Desenvolvedora Web
-- 🌱 Ex aluna do Alpha Ed-tech | Instituto Alpha Lúmen.
-- 🤔 Estudante de Engenharia Elétrica e Análise e Desenvolvimento de Sistemas.
-- 😄 Meus pronomes são: ela/dela.
+- 🔭 Full Stack Software Developer
+- 🤔 Studing System Analysis and Development
+- 😄 She/her.
 
 <br>
 <div align="center" style="align-items:center;">
