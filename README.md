@@ -12,11 +12,11 @@
 </div><br>
   
 <div align="center">
-    <img alt="GO" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png">
+    <img alt="NodeJs" height="30" src="https://img.icons8.com/color/512/nodejs.png">
  &nbsp;
     <img alt="TypeScript" height="50" src="https://cdn-icons-png.flaticon.com/256/919/919832.png">
  &nbsp;
-    <img alt="JavaScript" height="50" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png">
+    <img alt="GO" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png">
  &nbsp;
     <img alt="HTML e CSS" height="50" src="https://images.typeform.com/images/C83jPM99Hh/image/default">
 &nbsp;
